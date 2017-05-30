@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* Equipment List
+* [Equipment List](equipment-list.md)
 * Table of Contents
 
